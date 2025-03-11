@@ -1,3 +1,7 @@
+## Note
+
+This app is created based on suggestions given by [`ChatGPT`](https://docs.google.com/document/d/1_SzG3bLpknSptZoxFrYR-fqAVZmlp3azT89L_1qlUCM/edit?usp=drivesdk) This app exposes `components/pages` to be used by the `nextjs-host` app
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
